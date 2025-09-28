@@ -1,7 +1,7 @@
 # Hi, I'm ShengYao Liu 👋
 
 - 🔭 Currently developing software for small businesses as a freelancer, exploring Seattle, and attending local hackathons.
-- 🌱 I’m currently learning about AI Agents and LLMs in classes and for personal projects.
+- 🌱 Right now, I'm learning about AI Agents and LLMs in classes and for personal projects.
 - 📚 Studying Computer Engineering at University of Washington – Seattle.
 - 💻 Aspiring **Technical Sales / Solutions Engineer / Entrepreneur**.
 - 🎮 I enjoy meeting new friends, geeking out on world history and art, and exploring trending tech.
@@ -34,7 +34,7 @@
 
 ## 🌐 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile/)
+- 💼 [LinkedIn](www.linkedin.com/in/shengyaoliu)
 - 📫 Email: [shengyaoliu02@gmail.com](mailto:shengyaoliu02@gmail.com)
 - 🌍 [Portfolio](https://your-portfolio-site.com)
 
