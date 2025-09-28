@@ -30,5 +30,4 @@
 
 - 💼 LinkedIn: [@shengyaoliu](www.linkedin.com/in/shengyaoliu)
 - 📫 Email: [shengyaoliu02@gmail.com](mailto:shengyaoliu02@gmail.com)
-- 🌍 [Portfolio](https://your-portfolio-site.com)
 - ⭐️ Github: [syliu04](https://github.com/syliu04)
