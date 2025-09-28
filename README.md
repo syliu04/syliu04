@@ -5,10 +5,10 @@
 ## 👤 About Me
 
 - 🔭 Currently developing software for small businesses as a freelancer, exploring Seattle, and attending local hackathons.
-- 🌱 I’m currently learning about **AI Agents and LLMs** in classes and for personal projects.
-- 📚 Studying **Computer Engineering at University of Washington – Seattle**.
+- 🌱 I’m currently learning about AI Agents and LLMs in classes and for personal projects.
+- 📚 Studying Computer Engineering at University of Washington – Seattle.
 - 💻 Aspiring **Technical Sales / Solutions Engineer / Entrepreneur**.
-- 🎮 I enjoy **meeting new friends, painting, and exploring trending tech**.
+- 🎮 I enjoy meeting new friends, painting, and exploring trending tech.
 
 ---
 
