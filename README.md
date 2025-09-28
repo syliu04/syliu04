@@ -1,4 +1,4 @@
-# Hi, I'm ShengYao Liu / 刘圣瑶 / شِنْياو ليو بنت الصين و بخارى 👋
+# Hi, I'm ShengYao Liu / 刘圣瑶 / شِنْياو ليو بنت الصين و بخارى
 
 - 🔭 Currently developing software for small businesses as a freelancer, exploring Seattle, and attending local hackathons.
 - 🌱 Right now, I'm learning about AI Agents and LLMs in classes and for personal projects.
