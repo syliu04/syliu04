@@ -4,12 +4,11 @@
 
 ## 👤 About Me
 
-- 🔭 I’m actively participating in events and hackathons.
-- 🌱 I’m currently learning **[Your current topic, e.g., Data Structures and Algorithms in C++]**.
+- 🔭 Currently developing software for small businesses as a freelancer, exploring Seattle, and attending local hackathons.
+- 🌱 I’m currently learning about **AI Agents and LLMs** in classes and for personal projects.
 - 📚 Studying **Computer Engineering at University of Washington – Seattle**.
-- 💻 Aspiring **Full Stack Developer** *(currently focused on frontend)*.
-- 📊 Trainer at **[Organization name]** *(for [topics])*.
-- 🎮 I enjoy **watching podcasts, gaming, and exploring new tech**.
+- 💻 Aspiring **Technical Sales / Solutions Engineer / Entrepreneur**.
+- 🎮 I enjoy **meeting new friends, painting, and exploring trending tech**.
 
 ---
 
