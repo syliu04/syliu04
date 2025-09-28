@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning about AI Agents and LLMs in classes and for personal projects.
 - 📚 Studying Computer Engineering at University of Washington – Seattle.
 - 💻 Aspiring **Technical Sales / Solutions Engineer / Entrepreneur**.
-- 🎮 I enjoy meeting new friends, painting, and exploring trending tech.
+- 🎮 I enjoy meeting new friends, geeking out on world history and art, and exploring trending tech.
 
 ---
 
