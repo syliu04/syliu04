@@ -6,8 +6,6 @@
 - 💻 Aspiring **Technical Sales / Solutions Engineer / Entrepreneur**.
 - 🎮 I enjoy meeting new friends, geeking out on world history and art, and exploring trending tech.
 
----
-
 ## 🛠️ Tech Stack
 
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
@@ -28,14 +26,9 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=white)
 
----
-
 ## 🌐 Connect with Me
 
-- 💼 [LinkedIn](www.linkedin.com/in/shengyaoliu)
+- 💼 LinkedIn: [@shengyaoliu](www.linkedin.com/in/shengyaoliu)
 - 📫 Email: [shengyaoliu02@gmail.com](mailto:shengyaoliu02@gmail.com)
 - 🌍 [Portfolio](https://your-portfolio-site.com)
-
----
-
-⭐️ From [syliu04](https://github.com/syliu04)
+- ⭐️ Github: [syliu04](https://github.com/syliu04)
