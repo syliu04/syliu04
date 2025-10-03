@@ -31,3 +31,4 @@
 - 💼 LinkedIn: [@shengyaoliu](www.linkedin.com/in/shengyaoliu)
 - 📫 Email: [shengyaoliu02@gmail.com](mailto:shengyaoliu02@gmail.com)
 - ⭐️ Github: [syliu04](https://github.com/syliu04)
+- 📜 [Technical Resume](https://drive.google.com/file/d/1AdU7p68cn-38Vafy2OKb-WsEGzmT5xkO/view?usp=sharing) / [Nontechnical Resume](https://drive.google.com/file/d/1IfTSt69_A-Rn_Z-MTz2QCiXE_l9-TsKC/view?usp=sharing)
