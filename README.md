@@ -1,7 +1,6 @@
 # Hi, I'm ShengYao
 
-- 🔭 Currently developing software for small businesses as a freelancer, exploring Seattle, and attending local hackathons.
-- 🌱 Right now, I'm learning about AI Agents and LLMs in classes and for personal projects.
+- 🔭 Currently developing software for small businesses as a freelancer, exploring Seattle, and attending hackathons.
 - 📚 Studying Computer Engineering at University of Washington – Seattle.
 - 💻 Aspiring **Technical Sales / Solutions Engineer / Entrepreneur**.
 - 🎮 I enjoy meeting new friends, geeking out on world history and art, and exploring trending tech.
