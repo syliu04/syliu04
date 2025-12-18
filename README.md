@@ -1,9 +1,9 @@
 # Hi, I'm ShengYao
 
-- 🔭 Currently developing software for small businesses as a freelancer, exploring Seattle, and attending hackathons.
-- 📚 Studying Computer Engineering at University of Washington – Seattle.
-- 💻 Aspiring **Technical Sales / Solutions Engineer / Entrepreneur**.
-- 🎮 I enjoy meeting new friends, geeking out on world history and art, and exploring trending tech.
+- Currently developing software for small businesses as a freelancer, exploring Seattle, and attending hackathons.
+- Studying Computer Engineering at University of Washington – Seattle.
+- Aspiring **Technical Sales / Solutions Engineer / Entrepreneur**.
+- I enjoy meeting new friends, geeking out on world history and art, and exploring trending tech.
 
 ## 🛠️ Tech Stack
 
